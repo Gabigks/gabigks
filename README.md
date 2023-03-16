@@ -1,8 +1,8 @@
 <p><h1 align="center" >Hello, there! I'm Gabriel 👋</h1></p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabigks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabigks&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabigks&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabigks&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <br>
 <hr>
